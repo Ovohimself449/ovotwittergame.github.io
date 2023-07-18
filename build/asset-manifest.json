@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.7a66d96a.css",
+    "main.js": "/react-gh-pages/static/js/main.9d56dd66.js",
+    "static/media/tweep7.jpg": "/react-gh-pages/static/media/tweep7.d98cd580e05ef27218be.jpg",
+    "static/media/tweep5.jpg": "/react-gh-pages/static/media/tweep5.5e75624460ecfe17ea2c.jpg",
+    "static/media/tweep15.jpg": "/react-gh-pages/static/media/tweep15.129c4407f4141499815f.jpg",
+    "static/media/tweep9.jpg": "/react-gh-pages/static/media/tweep9.224b3f0a180635127cbd.jpg",
+    "static/media/tweep10.jpg": "/react-gh-pages/static/media/tweep10.43d0986c8bf9d37329ce.jpg",
+    "static/media/tweep17.jpg": "/react-gh-pages/static/media/tweep17.4d0b341ed9a066ce6cc6.jpg",
+    "static/media/tweep3.jpg": "/react-gh-pages/static/media/tweep3.8bdfd5fcd56e32b77952.jpg",
+    "static/media/ovodesign.jpg": "/react-gh-pages/static/media/ovodesign.8909df999286d31b1796.jpg",
+    "static/media/tweep2.jpg": "/react-gh-pages/static/media/tweep2.d79195a6ea34ec385b6f.jpg",
+    "static/media/Tweep1.jpg": "/react-gh-pages/static/media/Tweep1.4fed070298d7cd63a2a8.jpg",
+    "static/media/tweep12.jpg": "/react-gh-pages/static/media/tweep12.e60722022423b6d9aca4.jpg",
+    "static/media/tweep6.jpg": "/react-gh-pages/static/media/tweep6.1c1f7307f3af9367c4a7.jpg",
+    "static/media/tweep8.jpg": "/react-gh-pages/static/media/tweep8.0fe3ed8e560bca6ef238.jpg",
+    "static/media/tweep14.jpg": "/react-gh-pages/static/media/tweep14.1d66281c77ddd63ab0c1.jpg",
+    "static/media/tweep11.jpg": "/react-gh-pages/static/media/tweep11.a277f8bceba97cf8be68.jpg",
+    "static/media/tweep4.jpg": "/react-gh-pages/static/media/tweep4.d13a3be635b787a6ac50.jpg",
+    "static/media/tweep18.jpg": "/react-gh-pages/static/media/tweep18.ca400d8fcf06f1928ef7.jpg",
+    "static/media/tweep13.jpg": "/react-gh-pages/static/media/tweep13.6b1bb4c660363bb6e0c2.jpg",
+    "static/media/tweep16.jpg": "/react-gh-pages/static/media/tweep16.e9a7ee40252a7b801307.jpg",
+    "index.html": "/react-gh-pages/index.html",
+    "main.7a66d96a.css.map": "/react-gh-pages/static/css/main.7a66d96a.css.map",
+    "main.9d56dd66.js.map": "/react-gh-pages/static/js/main.9d56dd66.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a66d96a.css",
+    "static/js/main.9d56dd66.js"
+  ]
+}
